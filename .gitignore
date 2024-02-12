@@ -1,2 +1,2 @@
 *.db
-front/static/data/
+front/static/data/*
